@@ -1,0 +1,7 @@
+Problem connecting Arduino Nano to PC. 
+
+Download the drivers from the following link, unzip the files and run it.
+First we uninstall and then install it again. 
+
+https://sparks.gogo.co.nz/ch340.html
+
